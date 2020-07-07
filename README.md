@@ -9,7 +9,7 @@
 <strong>下载地址：</strong>
 <a href="https://ws28.cn/f/2y9afnadgfb" target="_blank">去文叔叔下载</a><span> -- </span><a href="https://github.com/liupan1890/xiaobaiyang" target="_blank" style="margin-left:24px">去github下载</a>
 <br/><br/>
-![本软件运行截图](https://s1.ax1x.com/2020/07/06/UPhsr4.gif)
+![本软件运行截图](https://s1.ax1x.com/2020/07/07/UkNDeO.gif)
 <br/>
 ### 0：6盘官方客户端PC
 
