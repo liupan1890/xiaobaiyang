@@ -15,7 +15,7 @@
 
 ![pc.png](https://s1.ax1x.com/2020/07/07/UFWbm4.png)
 
-### 1：官方百度网盘离线功能截图
+### 1：官方离线功能截图
 
 ![lixian.png](https://s1.ax1x.com/2020/07/07/UFfF7d.png)
 ### 2：官网开源api截图，官网已明确说明
