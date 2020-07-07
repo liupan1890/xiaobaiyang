@@ -13,13 +13,13 @@
 <br/>
 ### 0：6盘官方客户端PC
 
-![pc.png](pc.png)
+![pc.png](https://s1.ax1x.com/2020/07/07/UFWbm4.png)
 
 ### 1：官方百度网盘离线功能截图
 
-![lixian.png](lixian.png)
+![lixian.png](https://s1.ax1x.com/2020/07/07/UFfF7d.png)
 ### 2：官网开源api截图，官网已明确说明
 
-![index.png](index.png)
+![index.png](https://s1.ax1x.com/2020/07/07/UFf3As.png)
 
 > 我们支持Android、iOS、Windows、OSX等多个平台，同时在Web层面上给予尽量全面的功能支持。提供API文档，您甚至可以自行开发客户端软件。
