@@ -13,7 +13,7 @@
 <strong>特别声明：</strong><br/>
 软件的功能是调用6pan的公开api实现的，我仅仅是只做了一款GUI，软件无收费项，也不涉及任何隐私<br/><br/>
 <strong>下载地址：</strong>
-<a href="https://ws28.cn/f/2y9afnadgfb" target="_blank">去文叔叔下载</a><span> -- </span><a href="https://github.com/liupan1890/xiaobaiyang" target="_blank" style="margin-left:24px">去github下载</a>
+<a href="https://ws28.cn/f/2z3pakte7hj" target="_blank">去文叔叔下载</a>
 <br/><br/>
 ![本软件运行截图](https://s1.ax1x.com/2020/07/07/UkNDeO.gif)
 <br/>
