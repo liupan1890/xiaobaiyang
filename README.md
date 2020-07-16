@@ -14,7 +14,7 @@
 <strong>下载地址：</strong>
 <a href="https://ws28.cn/f/308wr944bc7" target="_blank">去文叔叔下载</a>
 <br/><br/><br/>
-* 求助：我没有52pojie的账号，谁有帮我把小白羊发到52上去，谢啦 * <br/>
+*求助：我没有52pojie的账号，谁有帮我把小白羊发到52上去，谢啦 * <br/><br/>
 
 ![本软件运行截图v1.1.5](https://s1.ax1x.com/2020/07/07/UkNDeO.gif)
 
