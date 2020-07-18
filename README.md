@@ -12,7 +12,7 @@
 最近用到了6pan.cn的离线下载，网页版还行，PC版丑拒。兴起自己做了一款，仅供个人学习使用<br/>
 软件的功能是调用6pan的公开api实现的，我仅仅是只做了一款UI，软件无收费项，也不涉及任何隐私<br/><br/><br/>
 <strong>下载地址：</strong>
-<a href="https://ws28.cn/f/308wr944bc7" target="_blank">去文叔叔下载</a>
+<a href="https://ws28.cn/f/31hhegosw9z" target="_blank">去文叔叔下载</a>
 <br/><br/><br/>
 *求助：我没有52pojie的账号，谁有帮我把小白羊发到52上去，谢啦 * <br/><br/>
 
