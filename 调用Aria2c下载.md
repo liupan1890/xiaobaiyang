@@ -19,7 +19,7 @@
 ~~~
 #后面是注释
 #配置aria服务器完整地址 例如：Server=http://114.114.114.114:6800/jsonrpc
-#注意这里   不支持https，不支持ws   必须是http
+#注意这里   不支持ws   必须是http或https
 
 Server=
 
