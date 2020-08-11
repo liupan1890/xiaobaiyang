@@ -13,7 +13,7 @@
 最近用到了 6pan.cn 的离线下载，网页版还行，PC版丑拒。兴起自己做了一款，仅供个人学习使用<br/>
 <br/><br/>
 <strong>下载地址：</strong>
-<a href="https://ws28.cn/f/31hhegosw9z" target="_blank">去文叔叔下载</a>
+<a href="https://ws28.cn/f/31hhegosw9z" target="_blank">暂停下载</a>
 <br/><br/><br/>
 
 ![本软件运行截图v1.1.5](https://s1.ax1x.com/2020/07/07/UkNDeO.gif)
