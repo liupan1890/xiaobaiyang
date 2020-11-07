@@ -2,7 +2,7 @@
 ----
 ### 开发声明：
 
-已经在开发第二版，10月底上线，参阅[6盘小白羊第二版](https://github.com/liupan1890/xiaobaiyang2)
+第二版已上传并可以用了，参阅[6盘小白羊第二版](https://github.com/liupan1890/xiaobaiyang2)
 
 ### 版权声明：
   
