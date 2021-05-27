@@ -1,8 +1,7 @@
 # 6盘小白羊版
 ----
-### 开发声明：
-
-第二版已上传并可以用了，参阅[6盘小白羊第二版](https://github.com/liupan1890/xiaobaiyang2)
+### 我的新项目阿里云盘离线版
+[阿里云盘离线版](https://github.com/liupan1890/aliyunpan) 已经上传了第一个开发版本欢迎测试
 
 ### 版权声明：
   
